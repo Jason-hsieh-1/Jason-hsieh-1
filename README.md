@@ -1,6 +1,6 @@
 # Hi, I am Ming-Hsi (Jason) Hsieh
 
-### 🎯  Leveraging Programming for Business Insights & Decision-Making  
+### 🎯  Leveraging Data and BI Tools for Business Insights & Decision-Making  
 
 <p align="left"> <img src="https://cdn.pixabay.com/photo/2024/04/25/02/23/ai-generated-8718795_960_720.png" alt="Profile Image" width="250"/> </p>
 
