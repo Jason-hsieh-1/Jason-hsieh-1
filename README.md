@@ -14,9 +14,9 @@ R: Intermediate proficiency
 SQL: Basic proficiency
 
 ## BI Tools
-MicroStrategy: Intermediate proficiency
+MicroStrategy: Advanced proficiency
 
-Power BI: Basic proficiency
+Power BI: Intermediate proficiency
 
 # 💡 Programming Applications
 ## Time series forecast:
