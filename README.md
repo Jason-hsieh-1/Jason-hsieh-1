@@ -1,6 +1,6 @@
 # Hi, I am Ming-Hsi (Jason) Hsieh
 
-### 🎯  Leveraging Data and BI Tools for Actionable Insights & Decision-Making  
+### 🎯  Leveraging Data and technology (AI) for Actionable Insights & Decision-Making to Drive Sustainable Business Growth
 
 <p align="left"> <img src="https://cdn.pixabay.com/photo/2024/04/25/02/23/ai-generated-8718795_960_720.png" alt="Profile Image" width="250"/> </p>
 
